@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CambioActivity</string>
+    <string name="Primera">Suma1</string>
+    <string name="Segunda">Suma2</string>
+    <string name="Tercera">Suma3</string>
+    <string name="Ir2">Ir 2</string>
+    <string name="Second">Second</string>
+    <string name="Ir1">Ir 1</string>
+</resources>
